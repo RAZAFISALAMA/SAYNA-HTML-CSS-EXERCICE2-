@@ -1,0 +1,135 @@
+eader {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 2%;
+    }
+    .pa{ text-align: center;}
+    .me {margin-left: 10%;}
+    #me1 {margin-right: 5%;
+    color: #FFFFFF;
+    }
+    #me2 {margin-left: -50%;
+    color: #FFFFFF
+    }
+    #me3 {
+    float: right;
+    margin-right: 1%;
+    }
+    .logo{
+    margin-top: -3%;
+    }
+    .send {
+    background-color: #3d9f96;
+    color: #FFF;
+    border: #3d9f96;
+    border-radius: 25px;
+    width: 25%;
+    height: 20%;
+    }
+    .section
+    .texe center .div{
+    position: absolute;
+    margin-top: -10%;
+    padding-top: 3%;
+    padding-bottom: 4%;
+    width: 100%;
+    }
+    .button{
+    padding-top: 5%;
+    flex: 0%;
+    }
+    /* hedear*/.section.icon
+    .background1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 29%;
+    margin-right: 29%;
+    }
+    .dbackground1{
+    position: absolute;
+    left: 20%;
+    bottom: 50%;
+    }
+    .col1{
+    position: relative;
+    }
+    .button
+    .row{
+    display: flex;
+    justify-content: center;
+    }
+    .col{
+    margin: 1%;
+    }
+    
+    .cotenair texte center
+    .div.ul.img.p .stong .texte{
+    position: absolute;
+    margin-top: 15%;
+    left: 8%;
+    }
+     .box{
+    display: flex;
+    justify-content: center;
+    }
+    .col{margin: 2%;}
+    .bacgruond-text{
+    display: flex;
+    justify-content: center;
+    }
+     .bacgruond-text-contenaire.contenair .box{
+    display: flex;
+    }
+    
+
+
+    
+    footer{display: inline;}
+    
+    
+    
+    @media all and (max-width: 480px) {
+    .me {
+    display: none;
+    }
+    .logo{
+    width: 100%;
+    padding-top: 6%;
+    }
+    button{
+    text-transform: uppercase;
+    }
+    .social{
+    display: none;
+    }
+    .background1{
+    display: block;
+    background-position-y: 45%;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: 90%;
+    margin-left: 0%;
+    margin-right: 0%;
+    }
+    .dbackground1{
+    display: none;
+    }
+    .box{
+    display: block;
+    text-align: center;
+    }
+display- none}
+    
+    .text .div.ul texte center{
+    display: block;
+    text-align: center;
+    }
+    .bacgruond-text-contenaire.contenair{display: none;}
+    .icon inline center{
+    width: 100%;}
+    
+    .derniere{
+    display: block;
+    }
+    

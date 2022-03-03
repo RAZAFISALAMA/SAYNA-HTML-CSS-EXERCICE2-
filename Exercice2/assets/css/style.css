@@ -1,0 +1,120 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Raleway:400,200,100,300,500,600,700,800,900');
+body {
+    background-color: #27242b;
+    margin: 15px 0px 0px 15px
+}
+
+.img {
+    width: 5px;
+    height: 50px;
+    display: flex;
+    margin: 5% 40%;
+}
+
+header {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+header div ul {
+    float: left;
+    display: flex;
+    text-decoration: none;
+}
+
+header div ul li {
+    margin: 1em;
+}
+
+.line {
+    color: #636363;
+    height: 5%;
+    width: 100%;
+}
+
+.text {
+    color: white;
+    text-align: center;
+    font-family: 'Raleway', Arial, sans-serif;
+}
+
+.menu {
+    text-align: center;
+    font-size: 25px;
+}
+
+.p {
+    text-align: center;
+    color: #0d855b;
+}
+
+.div {
+    margin: left;
+    padding: 12px;
+}
+
+.button {
+    border: #3d9f96;
+    border-radius: 25px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2% 50%;
+    background-color: #3d9f96;
+}
+
+.fonction {
+    margin: 2% 25%;
+    display: inline-block;
+}
+
+.div {
+    margin: 2em padding25px;
+    display: inline-block;
+    background-color: #636363;
+}
+
+header {
+    text-align: center;
+    height: 10px;
+    margin-right: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section.url,
+divclasse-icon:first-letter:after:margin10em left,
+text:center,
+.h4:webkit-textfield-decoration-container:strong first-line,
+box-style :heigt10,
+.backguond-text {
+    text-align: left hiegt 5% cetexte-decoration none;
+}
+
+section.img {
+    imgsrc: heigt10px;
+    padding-inline-start: 0%;
+}
+
+contenair- box,
+ulimgsr.section,
+url,
+.div-classe-icon margin left,
+.img-button-logo border,
+content .backguond-text,
+.h4 webkit-textfield-decoration,
+strong,
+first-line,
+.url-imput-type,
+.backguond-text,
+.div-classe-icon,
+margin:left2px0px,
+li .backguond-text:content-dispay-flex,
+.img src,
+margin-top,
+text-decoration:none,
+.backguond-box:content text-color,
+section-contenair-img,
+.backguond-text:content-inline-flex,
